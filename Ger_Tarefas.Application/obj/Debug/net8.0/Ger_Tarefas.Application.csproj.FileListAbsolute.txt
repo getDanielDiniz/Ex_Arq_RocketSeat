@@ -1,0 +1,15 @@
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\bin\Debug\net8.0\Ger_Tarefas.Application.deps.json
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\bin\Debug\net8.0\Ger_Tarefas.Application.dll
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\bin\Debug\net8.0\Ger_Tarefas.Application.pdb
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\bin\Debug\net8.0\Ger_Tarefas.Comunication.dll
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\bin\Debug\net8.0\Ger_Tarefas.Comunication.pdb
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tarefas.Application.csproj.AssemblyReference.cache
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tarefas.Application.AssemblyInfoInputs.cache
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tarefas.Application.AssemblyInfo.cs
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tare.06EF961B.Up2Date
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tarefas.Application.dll
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\refint\Ger_Tarefas.Application.dll
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\Ger_Tarefas.Application.pdb
+C:\Users\Kchor\source\repos\Ger_Tarefas\Ger_Tarefas.Application\obj\Debug\net8.0\ref\Ger_Tarefas.Application.dll

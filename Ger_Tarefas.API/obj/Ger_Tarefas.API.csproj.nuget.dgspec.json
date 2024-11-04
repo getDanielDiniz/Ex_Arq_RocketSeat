@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.API\\Ger_Tarefas.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.API\\Ger_Tarefas.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.API\\Ger_Tarefas.API.csproj",
+        "projectName": "Ger_Tarefas.API",
+        "projectPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.API\\Ger_Tarefas.API.csproj",
+        "packagesPath": "C:\\Users\\Kchor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kchor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Application\\Ger_Tarefas.Application.csproj": {
+                "projectPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Application\\Ger_Tarefas.Application.csproj"
+              },
+              "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\Ger_Tarefas.Comunication.csproj": {
+                "projectPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\Ger_Tarefas.Comunication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Application\\Ger_Tarefas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Application\\Ger_Tarefas.Application.csproj",
+        "projectName": "Ger_Tarefas.Application",
+        "projectPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Application\\Ger_Tarefas.Application.csproj",
+        "packagesPath": "C:\\Users\\Kchor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kchor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\Ger_Tarefas.Comunication.csproj": {
+                "projectPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\Ger_Tarefas.Comunication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\Ger_Tarefas.Comunication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\Ger_Tarefas.Comunication.csproj",
+        "projectName": "Ger_Tarefas.Comunication",
+        "projectPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\Ger_Tarefas.Comunication.csproj",
+        "packagesPath": "C:\\Users\\Kchor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kchor\\source\\repos\\Ger_Tarefas\\Ger_Tarefas.Comunication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kchor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

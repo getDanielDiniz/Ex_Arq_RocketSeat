@@ -1,0 +1,6 @@
+@Ger_Tarefas.API_HostAddress = http://localhost:5232
+
+GET {{Ger_Tarefas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

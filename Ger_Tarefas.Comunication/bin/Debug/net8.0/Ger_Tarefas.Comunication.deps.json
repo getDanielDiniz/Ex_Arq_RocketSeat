@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ger_Tarefas.Comunication/1.0.0": {
+        "runtime": {
+          "Ger_Tarefas.Comunication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ger_Tarefas.Comunication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

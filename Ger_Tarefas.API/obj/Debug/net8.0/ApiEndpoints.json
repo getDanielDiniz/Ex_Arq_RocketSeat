@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "Ger_Tarefas.API.Controllers.TarefasController",
+    "Method": "CreateTarefa",
+    "RelativePath": "api/tarefas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NewTarefa",
+        "Type": "Ger_Tarefas.Comunication.Requests.RequestTarefaJSON",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Ger_Tarefas.Comunication.Responses.ResponseTarefaJSON",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ger_Tarefas.API.Controllers.TarefasController",
+    "Method": "GetAll",
+    "RelativePath": "api/tarefas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Ger_Tarefas.Comunication.Responses.ResponseTarefaJSON, Ger_Tarefas.Comunication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ger_Tarefas.API.Controllers.TarefasController",
+    "Method": "GetById",
+    "RelativePath": "api/tarefas/${id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Ger_Tarefas.Comunication.Responses.ResponseTarefaJSON",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ger_Tarefas.API.Controllers.TarefasController",
+    "Method": "Delete",
+    "RelativePath": "api/tarefas/${id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ger_Tarefas.API.Controllers.TarefasController",
+    "Method": "UpdateById",
+    "RelativePath": "api/tarefas/${id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "tarefa",
+        "Type": "Ger_Tarefas.Comunication.Requests.RequestTarefaJSON",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  }
+]
